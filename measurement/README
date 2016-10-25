@@ -1,0 +1,9 @@
+Subor split sluzi na oddelenie informaci pre
+jednotlive vetvy z logu z putty. Ja som ho 
+spustal na skolskom serveri st.fri.uniza.sk
+mal by byt pristupny aj na www.st.fri.uniza.sk/~haluska19/bakalarka/split.sh
+
+
+./split [cislovetvy] > output.csv
+
+python scripty su na generovanie grafov z vytriedenych csv
