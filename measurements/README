@@ -1,0 +1,8 @@
+Bash script *split* is used for separating data for
+each channel.
+
+Uage:
+
+./split [number of channel] > output.csv
+
+Python scipts are used for drawing graphs from separated csv file.

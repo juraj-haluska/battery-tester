@@ -4,7 +4,7 @@ import matplotlib.patches as mpatches
 import numpy as np
 
 from numpy import genfromtxt
-data = genfromtxt('spracovanie/discharg3.csv', delimiter=';')
+data = genfromtxt('measurements/discharg3.csv', delimiter=';')
 
 dlzka = len(data)
 
