@@ -8,8 +8,8 @@ There are two ways how to operate device - via terminal (USB/UART) or using LCD 
 calibration constants, charging and discharging parameters (currents, voltages, cut off temperatures, etc.) and you can get sample data
 for drawing graphs. Device supports charging/discharging currents up to 5A.
 
-This repo contains source code in (source/) directory. There are also project files from Atollic TrueSTUDIO. In schematics directory you
-can find images of schematics and eagle project files where is also a PCB layout. In measurements directory there are logs from device and scripts for parsing logs and drawing graphs.
+This repo contains source code in [source](https://github.com/spacive/battery-tester/tree/master/source) directory. There are also project files from Atollic TrueSTUDIO. In [schematics](https://github.com/spacive/battery-tester/tree/master/schematics) directory you
+can find images of schematics and eagle project files where is also a PCB layout. In [measurements](https://github.com/spacive/battery-tester/tree/master/measurements) directory there are logs from device and scripts for parsing logs and drawing graphs.
 
 I developed this device as Bachelor's thesis for University of Zilina. It was my first touch with ARM Cortex-M0 based microcontroller so code may not be perfect.
 
