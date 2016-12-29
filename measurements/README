@@ -1,7 +1,7 @@
 Bash script *split* is used for separating data for
 each channel.
 
-Uage:
+Usage:
 
 ./split [number of channel] > output.csv
 

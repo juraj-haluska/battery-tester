@@ -1,7 +1,7 @@
 # Device for charging batteries and measuring their parameters. #
 
 Primary usage of this device is measurement parameters (internal resistance and capacity) of rechargeable 
-batteries based on lithium and nickel. Measurement of those parameters is usually accomplished by discharging 
+batteries based on lithium and nickel. Measurement of those parameters is accomplished by discharging 
 batteries and monitoring currents and voltages. This device also supports charging batteries.
 On device there are four independent channels and each channel has two slots - one for 18650 lithium batteries and one for classic AA batteries.
 There are two ways how to operate device - via terminal (USB/UART) or using LCD display and mechanical switches. By using terminal you can set up
